@@ -1,0 +1,3 @@
+BUILD_DIR=.
+SRC_DIR=$(BUILD_DIR)/src
+CC=g++
